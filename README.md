@@ -21,6 +21,11 @@ To fit the additional electronics, minor internal plastic sections of the calcul
 - Jumper wires for temporary power
 
 ---
+## Schematic
+
+The internal schematic and wiring layout of the modified calculator is shown below.
+
+![Internal Schematic](Schematic.png)
 
 ## Design Choices
 
